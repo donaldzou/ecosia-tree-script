@@ -2,21 +2,19 @@
 
 Hey guys… Wanna know how to cheat your tree number? I am gonna tell you!
 
-First, you need to download Opera browser, (because my solution cannot run on chorme..). Here is the link:
+1. You need to download Opera browser, (because my solution cannot run on chorme..). Here is the link:
 
 ```
 Windows: https://www.opera.com/computer/windows
 Mac: https://www.opera.com/computer/mac
 ```
-Once you installed Opera, open this on Opera:
+2. Once you installed Opera, open this on Opera:
 
-- https://addons.opera.com/en/extensions/details/install-chrome-extensions/
+ - https://addons.opera.com/en/extensions/details/install-chrome-extensions/
 
-Then click add to opera.
+Then click add to opera. It will ask you to enable.
 
-It will ask you to enable.
-
-Then go on this link:
+3. Then go on this link:
 
 - https://chrome.google.com/webstore/detail/web-override/lllllobkincmdnjfkbknjacacmnlajll
 
