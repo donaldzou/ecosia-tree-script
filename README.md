@@ -1,8 +1,8 @@
-# Auto search sript on Ecosia to earn tree
+# Auto search script on Ecosia to earn tree
 
 Hey guys… Wanna know how to cheat your tree number? I am gonna tell you!
 
-1. You need to download Opera browser, (because my solution cannot run on chorme..). Here is the link:
+1. You need to download Opera browser, (because my solution cannot run on Chrome..). Here is the link:
 
 ```
 Windows: https://www.opera.com/computer/windows
@@ -19,15 +19,17 @@ Then click add to opera. It will ask you to enable.
 - https://chrome.google.com/webstore/detail/web-override/lllllobkincmdnjfkbknjacacmnlajll
 
 4. Then click add to opera, it will pop up a window, then you click OK. Then it will redirect to a page, you will see an extension called “Web Override”. Click install, after you installed, you will se a leaf logo next to your address bar.
-
-5. then copy the whole thing below (Please check did you copy the whole thing 🙂 ):
-- https://github.comm/donald-zh-en/ecosia-tree-script/src/ecosia.js
-
-6. Then go on https://www.ecosia.org. Click the leaf logo. Click create your first override. You can set the title whatever you want, then click save and continue, then we click the cloud logo on the left. Paste this.
+5. Go to https://ecosia.org
+6. Click on the leaf in your toolbar, and select "Add a new override"
+7. Set the title to "Ecosia Script", then click "Save and continue"
+8. Click on the cloud with an infinity symbol (Javascript)
+9. Copy everything from the link below (Please check did you copy the whole thing 🙂 ):
+- https://rawcdn.githack.com/donaldzou/ecosia-tree-script/31cf2c94ed510336d0962cf5512d181124909af6/src/ecosia.js
+10. Paste it into the text field
 
 **Remember to click save!!!**
 
-7. Now, go to https://www.ecosia.org, wait for 20 seconds. It will search a word automatically.
+11. Now, go to https://www.ecosia.org, wait for 20 seconds. It will search a word automatically.
 
 😉
 
